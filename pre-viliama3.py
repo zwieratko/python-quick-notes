@@ -60,6 +60,7 @@ elif len(sys.argv) == 2:
     user_input_1 = sys.argv[1]
     user_input_2 = 'metric'
 else:
+    user_input_1 = sys.argv[1]
     user_input_2 = sys.argv[2]
 
 if 'APPID' in os.environ:
