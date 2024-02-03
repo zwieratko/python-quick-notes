@@ -151,4 +151,4 @@ crashlytics-build.properties
 fabric.properties
 
 # test / examples data file in this repo
-.csv
+*.csv
